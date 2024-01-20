@@ -1,2 +1,2 @@
 # CS361TestRepo
-A repository to create a test commit for OSU CS 361l
+A repository for Assignment 2: "Environment Setup" which requires a test commit.
